@@ -1,1 +1,5 @@
-
+TELEGRAM_TOKEN=your_telegram_token_here
+CHAT_ID=@your_chat_id_here
+BYBIT_API_KEY=your_bybit_api_key_here
+BYBIT_SECRET_KEY=your_bybit_secret_key_here
+BYBIT_UID=your_bybit_uid_here
